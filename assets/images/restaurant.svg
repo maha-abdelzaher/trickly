@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1168" height="232" viewBox="0 0 1168 232">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 300px;
+        fill: #161616;
+        text-anchor: middle;
+        font-family: TrashHand;
+      }
+    </style>
+  </defs>
+  <text id="Restaurant" class="cls-1" x="555.968" y="198.364"><tspan x="555.968">Restaurant</tspan></text>
+</svg>
