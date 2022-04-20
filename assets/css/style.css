@@ -943,6 +943,10 @@ a.telIcon:hover i {
 
 /* Tablets Ipads portrait mode */
 @media (min-width: 768px) and (max-width: 1024px) {
+    .sticky .nav-aside {
+        position: fixed;
+        top: 99px;
+    }
     .container {
         max-width: 720px;
         margin: 0 auto;

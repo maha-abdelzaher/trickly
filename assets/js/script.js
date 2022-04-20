@@ -1,4 +1,7 @@
+window.$ = require('jquery')
+
 $(document).ready(function () {
+ 
     // fixed Nav
     var stickyNavTop = $('.fixed').offset().top;
     var stickyNav = function () {

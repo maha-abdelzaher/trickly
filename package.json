@@ -1,0 +1,26 @@
+{
+  "name": "trickly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maha-abdelzaher/trickly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maha-abdelzaher/trickly/issues"
+  },
+  "homepage": "https://github.com/maha-abdelzaher/trickly#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
