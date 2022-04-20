@@ -1,7 +1,5 @@
-window.$ = require('jquery')
-
-$(document).ready(function () {
- 
+import $ from 'jquery'
+$(function () {
     // fixed Nav
     var stickyNavTop = $('.fixed').offset().top;
     var stickyNav = function () {
