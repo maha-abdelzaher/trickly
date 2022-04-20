@@ -1,5 +1,5 @@
-import script from './assets/js/script';
-import './assets/css/style.css'
-import './assets/css/all.min.css'
+import mainscript from './assets/js/mainscript.js';
+// import './assets/css/style.css'
+// import './assets/css/all.min.css'
 
-script();
+mainscript();
